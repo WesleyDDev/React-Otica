@@ -1,0 +1,26 @@
+
+
+.topo{
+    font-family: Tahoma;
+    background-color: rgb(224, 224, 224);
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 5px;
+}
+.logoimg{
+    width: 200px;
+    height: 50px;
+}
+
+
+.a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: large;
+    font-size: 20px;
+    padding: 35px;
+    
+}

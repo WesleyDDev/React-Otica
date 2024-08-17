@@ -1,0 +1,33 @@
+
+.pai{
+
+    background-image: url(../../img/capa.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+    height: 95vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    
+
+
+}
+.conteudo{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    justify-content: right;
+    
+
+    & .conteudo1{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    font-family: Tahoma, sans-serif;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    
+    }
+}
